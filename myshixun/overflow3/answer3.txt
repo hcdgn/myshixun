@@ -1,0 +1,5 @@
+Userid: 2016010305
+Cookie: 0x3d91b195
+Type string:Bang!: You set global_value to 0x3d91b195
+VALID
+NICE JOB!

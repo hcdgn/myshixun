@@ -1,0 +1,8 @@
+Userid: 2016010305
+Cookie: 0x3d91b195
+Type string:KABOOM!: getbufn returned 0x3d91b195
+Keep going
+Type string:Dud: getbufn returned 0x1
+Type string:Dud: getbufn returned 0x1
+Type string:Dud: getbufn returned 0x1
+Type string:Dud: getbufn returned 0x1
